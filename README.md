@@ -2,7 +2,30 @@
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20191113114209/CTutorial.png" alt="">
 
-## 📌Let's Begin The Journey
+## 📌What is C++?
+- C++ is a cross-platform language that can be used to create high-performance applications.
+
+- C++ was developed by Bjarne Stroustrup, as an extension to the C language.
+
+- C++ gives programmers a high level of control over system resources and memory.
+
+- The language was updated 3 major times in 2011, 2014, and 2017 to C++11, C++14, and C++17.
+
+## 📌Why we love it.
+
+- Fast and flexible
+
+- Low-level functionality
+
+- Large programming community
+
+- Strong documentation
+
+**👉 Learn more about C++ on its [Official Documentation](https://isocpp.org/wiki/faq/coding-standards).**
+
+**👉 Join [Github's Open-Source Projects](https://github.com/trending/cpp) and read other people's code.**
+
+## 📌Now Let's Begin The Journey...
 
 | Content  | Source Code |  Assignment  |  Assignment Solution  |
 | :------- | :-----------: | :-----: | :----: |
