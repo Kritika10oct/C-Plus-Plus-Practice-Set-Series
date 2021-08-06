@@ -1,4 +1,4 @@
-//problem 4:-There are two techique to swap two numbers
+//problem 1:-There are two techique to swap two numbers
 #include<iostream>
 using namespace std;
 int main(){
