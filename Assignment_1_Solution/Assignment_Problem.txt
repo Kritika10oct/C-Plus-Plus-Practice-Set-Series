@@ -1,0 +1,2 @@
+Problem 1:-C++ program to check whether the number is even or odd?
+Problem 1:-C++ program to check whether the character is vowel or Consonent?
