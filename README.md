@@ -35,3 +35,4 @@
 | **[🔸 3. Assignment 1 Solution](https://www.youtube.com/watch?v=cIV-clRqW6w&list=PLeOLADrn24xH1_Rars42HOYSHwOc6V2hV&index=4)**  | -  |  -  |  [Assignment 1](https://github.com/Kritika10oct/C-Plus-Plus-Practice-Set-Series/tree/main/Assignment_1_Solution)  |
 | **[🔸 4. Learn about Conditional statement](https://youtu.be/Ds68UHW4ZeA)**  | [Code](https://github.com/Kritika10oct/C-Plus-Plus-Practice-Set-Series/tree/main/04_Learn_Conditional_Statment_Program_in_C_Plus_plus) |  -  |  - |
 | **[🔸 5. Practicing Question in For Loop ](https://youtu.be/lurlDf9neVA)**  |  [Code](https://github.com/Kritika10oct/C-Plus-Plus-Practice-Set-Series/tree/main/04_Learn_Conditional_Statment_Program_in_C_Plus_plus) |  -  | -  |
+| **[🔸 6. Learn While and Do While loops statement ](https://youtu.be/vhnfSXeyM9Q)**  |  [Code](https://github.com/Kritika10oct/C-Plus-Plus-Practice-Set-Series/tree/main/%236_Learn_while_and_do_While_statement_in_C_plus_plus) |  -  | -  |
